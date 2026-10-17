@@ -1,0 +1,3 @@
+# Text with LF everywhere; the packs are binary and must never be converted.
+* text=auto eol=lf
+*.mmgeo binary
