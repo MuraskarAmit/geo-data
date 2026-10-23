@@ -1,0 +1,13 @@
+Copyright 2026 makemesmarter (https://makemesmarter.in)
+
+The files in this repository are World geography's country maps for Make Me Smarter. They combine data from the sources listed in ATTRIBUTION.md with Make Me Smarter's own work.
+
+1. Each source's data stays under its own licence and terms, which ATTRIBUTION.md gives with the source's credit line and terms page. Reusing it means following those terms, such as GEBCO's acknowledgement, not-for-navigation and no-endorsement conditions.
+
+2. Make Me Smarter's own work in these files (the landform classes, the selection, generalisation and arrangement of the data, the statistics, and their encoding in these files and the release records) is licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/legalcode
+
+   Credit it as: "Map data: Make Me Smarter (makemesmarter.in), CC BY 4.0", together with the sources' own credit lines from ATTRIBUTION.md.
+
+3. India's boundaries are drawn according to India's official position, simplified for small-scale maps (data: Natural Earth, India view). The maps are for learning, not navigation, and are not an authoritative statement on any boundary. Whoever publishes maps made from these files is responsible for the mapping laws that apply to them.
+
+The app's source code is not in this repository and is not covered by this licence.
